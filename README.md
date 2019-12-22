@@ -31,3 +31,4 @@ curl -X POST \
 ```mvn clean install``` or ```mvn test```
 
 It will create Pact files in target\pacts folder
+Hello world
